@@ -31,7 +31,7 @@
 
 #define SERVER_STRING "Server: jdbhttpd/0.1.0\r\n"
 
-void accept_request(void);
+void *accept_request(void*);
 void bad_request(int);
 void cat(int, FILE *);
 void cannot_execute(int);
