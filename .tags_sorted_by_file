@@ -1,5 +1,5 @@
-ISspace	httpd.c	29;"	d	file:
-SERVER_STRING	httpd.c	31;"	d	file:
+ISspace	httpd.c	30;"	d	file:
+SERVER_STRING	httpd.c	32;"	d	file:
 accept_request	httpd.c	/^void accept_request(int client)$/;"	f
 bad_request	httpd.c	/^void bad_request(int client)$/;"	f
 cannot_execute	httpd.c	/^void cannot_execute(int client)$/;"	f
